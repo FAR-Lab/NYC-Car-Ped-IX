@@ -15,16 +15,6 @@
   - Pedestrian simulator that populates the sidewalks with pedestrians
   - Car simulator that populates the streets with moving cars
 
-## Simulators
+## Technical Overview
 
-### Pedestrian Simulator
-
-A global controller that controls all pedestrians
-- PedSimController
-
-In each individual pedestrian
-- PedBehaviorController
-- PedNavigator
-- PedAnimator
-
-### Car Simulator
+https://docs.google.com/document/d/1Lo_ZZJBU-mj591dHYa4vEoTmr_ehcmUXOq88vYOMVtQ/edit?usp=sharing
