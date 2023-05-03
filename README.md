@@ -1,6 +1,6 @@
 # NYC-Car-Ped-IX
  
-## Project Modules
+## Project Technical Modules
 
 - Digital Twin
   - A high fidelity model of a selected urban area in NYC
